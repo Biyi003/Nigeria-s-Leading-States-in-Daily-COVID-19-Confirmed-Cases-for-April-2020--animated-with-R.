@@ -1,0 +1,35 @@
+"States Affected","No. of Cases (Lab Confirmed)","No. of Active Cases","No. Discharged","No of Deaths"
+"Lagos",764,602,143,19
+"Abuja FCT",157,118,36,3
+"Kano",77,76,0,1
+"Borno",41,39,0,2
+"Gombe",37,37,0,0
+"Ogun",35,29,5,1
+"Osun",34,14,18,2
+"Katsina",30,24,4,2
+"Edo",25,14,8,3
+"Oyo",21,10,9,2
+"Kaduna",15,9,6,0
+"Bauchi",14,8,6,0
+"Akwa Ibom",12,2,9,1
+"Sokoto",10,10,0,0
+"Kwara",11,9,2,0
+"Ekiti",8,5,2,1
+"Ondo",8,6,2,0
+"Delta",6,5,0,1
+"Rivers",6,2,2,2
+"Taraba",8,8,0,0
+"Abia",2,2,0,0
+"Enugu",2,0,2,0
+"Niger",2,2,0,0
+"Jigawa",2,2,0,0
+"Zamfara",2,2,0,0
+NA,NA,NA,NA,NA
+"Benue",1,1,0,0
+"Anambra",1,0,1,0
+"Plateau",1,1,0,0
+"Imo",1,1,0,0
+"Bayelsa",1,1,0,0
+"Ebonyi",1,1,0,0
+"Kebbi",1,1,0,0
+"Total",1337,1042,255,40
